@@ -1,0 +1,1 @@
+Check if the a word exist in the dictionary.
